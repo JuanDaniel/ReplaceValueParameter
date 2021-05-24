@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ReplaceValueParameter</Name>
+    <Assembly>C:\Program Files\BBI\Add-in ReplaceValueParameter\ReplaceValueParameter.dll</Assembly>
+    <AddInId>61217e6a-7a87-4ed8-ae8e-ef74580812f8</AddInId>
+    <FullClassName>BBI.JD.CrtlApplication</FullClassName>
+    <VendorId>JDS</VendorId>
+    <VendorDescription>Juan Daniel SANTANA</VendorDescription>
+  </AddIn>
+</RevitAddIns>
